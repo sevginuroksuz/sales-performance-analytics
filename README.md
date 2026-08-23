@@ -14,6 +14,11 @@ kapsamda müşteri davranışları, bölgesel satış ve kârlılık performans�
 ürün bazlı ciro ve kâr sonuçları ile dönemsel satış değişimleri analiz
 edilmiştir.
 
+## 📊 Power BI Raporu
+
+**[Power BI Service Üzerinde Etkileşimli Raporu Görüntüle](https://app.powerbi.com/groups/me/reports/3e5c434e-b8cc-4b85-aad5-512a7e87188b/9e0f127bd610f324b6b5?experience=power-bi)**
+
+
 ## Yapılan Çalışmalar
 
 -   Power Query ile veri temizleme ve dönüştürme işlemleri
@@ -103,11 +108,12 @@ drill-down yapısı kullanılmıştır.
 değerlendiren dört etkileşimli Power BI dashboardu oluşturulmuş ve Power
 BI Service üzerinde yayımlanmıştır.
 
-## Dosyalar
+## Dosyalar ve Bağlantılar
 
 -   `Satis_Performansi_Veri_Analizi_Case_Study.pbix` --- Power BI rapor
     dosyası
 -   `README.md` --- Proje dokümantasyonu
+- [Power BI Service Raporu](https://app.powerbi.com/groups/me/reports/3e5c434e-b8cc-4b85-aad5-512a7e87188b/9e0f127bd610f324b6b5?experience=power-bi) 
 
 ------------------------------------------------------------------------
 
